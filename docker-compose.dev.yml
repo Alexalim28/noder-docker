@@ -18,5 +18,5 @@ services:
   
   mongo:
     environment:
-      MONGO_INITDB_ROOT_USERNAME: salim
-      MONGO_INITDB_ROOT_PASSWORD: passwd
+      MONGO_INITDB_ROOT_USERNAME=salim
+      MONGO_INITDB_ROOT_PASSWORD=passwd
